@@ -1,6 +1,6 @@
 # Uber Data
 
-Data analysis about my Uber user info.
+Data analysis of my user info in Uber platform.
 
 ### If you want to do this with your data you need to follow this steps
 
